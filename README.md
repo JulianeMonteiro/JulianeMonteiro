@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Juliane Monteiro
 
 - 🔭 Hoje trabalho como consultora SAP
-- 🌱 Estudo desenvolvimento Front-End.
+- 🌱 Estudo desenvolvimento Front-End
 
 
 
