@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como consultora SAP
 - 🌱 Estudo desenvolvimento Front-End.
-- 😄 Pronomes: Ela/Dela
 
 
 
