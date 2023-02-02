@@ -1,5 +1,5 @@
 ## Oi! Eu sou a Ju.
-###Seja bem-vindo!
+### Seja bem-vindo!
 
 - 🔭 Hoje atuo como consultora SAP
 - 🌱 Estudo desenvolvimento Front-End
