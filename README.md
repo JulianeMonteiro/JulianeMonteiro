@@ -1,6 +1,7 @@
-## Olá! Eu sou a Juliane Monteiro
+## Oi! Eu sou a Ju.
+###Seja bem-vindo!
 
-- 🔭 Hoje trabalho como consultora SAP
+- 🔭 Hoje atuo como consultora SAP
 - 🌱 Estudo desenvolvimento Front-End
 
 
