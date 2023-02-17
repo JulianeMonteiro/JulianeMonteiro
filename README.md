@@ -1,8 +1,10 @@
 # Hi there, my name is Juliane 👋
-
-•	👩🏻‍🎓  I am graduated in Analysis and Systems Development  </br> 
-
-•	🌱 I’m currently learning HTML5, CSS3 and JavaScript 💙
+ </br> 
+ 
+👩🏻‍🎓  I am graduated in Analysis and Systems Development  </br> 
+🔭 I’m a passionate frontend web developer  </br> 
+🌱 I’m currently learning JavaScript   </br> 
+📫 How to reach me: ju.ap.mont@gmail.com  </br> 
 
  </br> 
  
