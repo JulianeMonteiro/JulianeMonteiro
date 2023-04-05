@@ -3,7 +3,7 @@
  
 👩🏻‍🎓  I am graduated in Analysis and Systems Development  </br> 
 🔭 I’m a passionate frontend web developer  </br> 
-🌱 I’m currently learning JavaScript   </br> 
+🌱 I’m currently learning Angular   </br> 
 📫 How to reach me: ju.ap.mont@gmail.com  </br> 
 :notebook_with_decorative_cover: Potfolio: https://julianemonteiro.github.io/  </br>  
 
