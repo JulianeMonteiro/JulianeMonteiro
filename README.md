@@ -67,7 +67,7 @@
  
 ### Perfil no Github
 
->º
+>
 >> <a href="https://github.com/JulianeMonteiro">
 >> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianeMonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 >> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianeMonteiro&layout=compact&langs_count=7&theme=dracula"/>
