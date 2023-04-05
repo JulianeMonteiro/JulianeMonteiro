@@ -9,17 +9,17 @@
 ---
 ### Meus interesses
 
->º
+>
 >> - 👨‍👩‍👦‍👦 Amo curtir momentos em família. Adoramos jogos de tabuleiro!
 >> - :movie_camera: Adoro assistir séries e filmes de época, aventura e ficção científica.
 >> - :walking: Também gosto de caminhar na praia e cozinhar.
 >> - :desktop_computer:  E amo codar!
->º
+>
 ---
 
 ### Formação
 
->º
+>
 >> #### Análise e Desenvolvimento de Sistemas - Fatec, conclusão em Junho de 2022.
 >>
 >>*A graduação ensina noções sobre Bancos de Dados, sistemas baseados em web e programação distribuída. Administração, contabilidade, economia, estatística e inglês também fazem parte do currículo.*.
@@ -31,14 +31,14 @@
 >> #### Formação Fullstack Designer - EBAC, conclusão em Janeiro de 2024.
 >>
 >>*A formação aborda a criação de interfaces e soluções visuais com base em UX e UI e implementação de fluxos de trabalho em design gráfico e web. Aprendemos a dominar as ferramentas Photoshop, Illustrator, Figma e Wordpress e domínio, também, de tecnologias de integração de APIs e SEO.*
->º
+>
 
 
  ---
  ### Linguagens de Programação e ferramentas
 
 >
->º
+>
 >> Utilizo todos os dias:
 >>
 >> [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -54,13 +54,12 @@
 >> [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 >> [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/documentation/)
 >> [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
->º
 >
 ---
 
  ### Meus Contatos  
   
->º
+>
 >> <a href="https://www.linkedin.com/in/juliane-aparecida-monteiro-dos-santos-8736a3172" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 >>  <a href = "mailto:ju.ap.mont@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 >
