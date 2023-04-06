@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=cf9075&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Olá!+Prazer,+meu+nome+é+Juliane!)](https://git.io/typing-svg)
 
  
-### Welcome to my Github! </br>  
+### Seja bem-vindo(a)! </br>  
  Sou dev Front-end apaixonada pelo que faço e pelo universo de UX/UI!  </br> 
  Sou curiosa e estou sempre em busca de aprender coisas novas. </br> 
  Atualmente estou estudando Typescript e Angular. </br> 
