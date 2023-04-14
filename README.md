@@ -14,14 +14,14 @@
 >> - 👨‍👩‍👦‍👦 Amo curtir momentos em família. Adoramos jogos de tabuleiro!
 >> - :movie_camera: Adoro assistir séries e filmes de época, aventura e ficção científica.
 >> - :walking: Também gosto de caminhar na praia e cozinhar.
->> - :desktop_computer:  E amo codar!
+>> - :desktop_computer:  Amo codar!
 >
 ---
 
 ### Formação
 
 >
->> #### Análise e Desenvolvimento de Sistemas - Fatec, conclusão em Junho de 2022.
+>> #### Análise e Desenvolvimento de Sistemas - Fatec, concluído em Junho de 2022.
 >>
 >>*A graduação ensina noções sobre Bancos de Dados, sistemas baseados em web e programação distribuída. Administração, contabilidade, economia, estatística e inglês também fazem parte do currículo.*.
 >
