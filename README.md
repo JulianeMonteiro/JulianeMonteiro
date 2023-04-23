@@ -25,7 +25,7 @@
 >>
 >>*A graduação ensina noções sobre Bancos de Dados, sistemas baseados em web e programação distribuída. Administração, contabilidade, economia, estatística e inglês também fazem parte do currículo.*.
 >
->> #### Formação Engenheiro Front-End - EBAC, conclusão em outubro de 2023.
+>> #### Formação Engenheiro Front-End - EBAC, conclusão em Outubro de 2023.
 >>
 >>*A formação aborda as ferramentas para tecnologias, como HTML, CSS, JavaScript, Ajax e APIs. Ensina integração Front-end e Back-end,TypeScript, testagem de software e frameworks como VueJs e React, metodologias ágeis e habilidades comportamentais*.
 >
