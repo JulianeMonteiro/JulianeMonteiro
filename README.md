@@ -4,7 +4,6 @@
 ### Seja bem-vindo(a)! </br>  
  Sou dev Front-end apaixonada pelo que faço e pelo universo de UX/UI!  </br> 
  Sou curiosa e estou sempre em busca de aprender coisas novas. </br> 
- Atualmente estou estudando Typescript e Angular. </br> 
  Acesse meu [Portfólio](https://julianemonteiro.github.io/) para ver meus principais projetos.
  
 ---
@@ -51,10 +50,8 @@
 >> [![Css 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 >> [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 >> [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://api.jquery.com/)
->> [![Angular](	https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs)
 >> [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 >> [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/documentation/)
->> [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 >
 ---
 
