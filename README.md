@@ -4,7 +4,7 @@
 ### Seja bem-vindo(a)! </br>  
  Sou dev Front-end apaixonada pelo que faço e pelo universo de UX/UI!  </br> 
  Sou curiosa e estou sempre em busca de aprender coisas novas. </br> 
- Acesse meu [Portfólio](https://julianemonteiro.github.io/) para ver meus principais projetos.
+ Acesse meu [Portfólio](https://portfolio-peach-nine-11.vercel.app/) para ver meus principais projetos.
  
 ---
 ### Meus interesses
