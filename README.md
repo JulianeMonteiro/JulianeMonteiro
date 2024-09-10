@@ -2,7 +2,8 @@
 
  
 ### Seja bem-vindo(a)! </br>  
- Sou dev Front-end apaixonada pelo que faço e pelo universo de UX/UI!  </br> 
+ Sou uma analista de sistemas apaixonada pelo desenvolvimento web e pelo universo de UX/UI!  </br> 
+ Aprendendo sobre edição de vídeos e criação de conteúdos para marcas</br> 
  Sou curiosa e estou sempre em busca de aprender coisas novas. </br> 
  Acesse meu [Portfólio](https://portfolio-peach-nine-11.vercel.app/) para ver meus principais projetos.
  
@@ -11,14 +12,18 @@
 
 >
 >> - 👨‍👩‍👦‍👦 Amo curtir momentos em família. Adoramos jogos de tabuleiro!
->> - :movie_camera: Adoro assistir séries e filmes de época, aventura e ficção científica.
+>> - :movie_camera: Adoro assistir séries e filmes de época, romance, aventura e ficção científica.
 >> - :walking: Também gosto de caminhar na praia e cozinhar.
->> - :desktop_computer:  Amo codar!
+>> - :desktop_computer:  Adoro aprender coisas novas!
 >
 ---
 
 ### Formação
 
+>
+>> #### Engenharia de Software - Unicesumar, previsão de conclusão em Janeiro de 2026.
+>>
+>>*A graduação ensina noções sobre Bancos de Dados, sistemas baseados em web e programação distribuída. Administração, contabilidade, economia, estatística e inglês também fazem parte do currículo.*.
 >
 >> #### Análise e Desenvolvimento de Sistemas - Fatec, concluído em Junho de 2022.
 >>
@@ -37,7 +42,6 @@
  ---
  ### Linguagens de Programação e ferramentas
 
->
 >
 >> Utilizo todos os dias:
 >>
