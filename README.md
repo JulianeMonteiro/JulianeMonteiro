@@ -21,10 +21,6 @@
 ### Formação
 
 >
->> #### Engenharia de Software - Unicesumar, previsão de conclusão em Janeiro de 2026.
->>
->>*A graduação ensina noções sobre Bancos de Dados, sistemas baseados em web e programação distribuída. Administração, contabilidade, economia, estatística e inglês também fazem parte do currículo.*.
->
 >> #### Análise e Desenvolvimento de Sistemas - Fatec, concluído em Junho de 2022.
 >>
 >>*A graduação ensina noções sobre Bancos de Dados, sistemas baseados em web e programação distribuída. Administração, contabilidade, economia, estatística e inglês também fazem parte do currículo.*.
